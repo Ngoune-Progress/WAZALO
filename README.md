@@ -1,16 +1,18 @@
 # wazalo
 
-A new Flutter project.
+APPLICATION MOBILE EN FLUTTER .
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Ce projet est un point de départ pour notre application Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Quelques ressources pour vous aider à démarrer si c'est votre premier projet Flutter :
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#------------------------------------------------------------------------------------------------------------------------------
+Quelques photos des interfaces qui ont déjà été réalisées par Ngoune-Progress
+![Screen Shot 2023-08-11 at 4 39 55 PM](https://github.com/Ngoune-Progress/WAZALO/assets/81558054/ed552c9f-9eb4-4868-900e-1b7150b25528)
+
+En cas de problème, contactez-moi à l'adresse suivante `mr.ngoune@gmail.com`, Merci 😆 
